@@ -28,13 +28,5 @@
     "gulp-uglify": "^3.0.1",
     "gulp-uglify-es": "^1.0.4",
     "pump": "^3.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olegzip/forkio.git"
-  },
-  "bugs": {
-    "url": "https://github.com/olegzip/forkio/issues"
-  },
-  "homepage": "https://github.com/olegzip/forkio#readme"
+  }
 }
